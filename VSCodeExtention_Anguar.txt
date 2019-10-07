@@ -1,0 +1,11 @@
+Angular Snippets 
+Angular File
+Angular Language Service
+angular2-switcher
+Auto Rename Tag
+Bracket Pair Colorizer
+Debugger for Chrome
+Material Icon Theme
+Path Intellisense
+Prettier - Code formatter
+TSLint
